@@ -1,0 +1,345 @@
+# depslib dependency file v1.0
+1575215925 source:c:\users\emor\desktop\experiment\数据结构实验\greedysnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575215934 c:\users\emor\desktop\experiment\数据结构实验\greedysnake\map.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575214991 c:\users\emor\desktop\experiment\数据结构实验\greedysnake\game.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575214375 c:\users\emor\desktop\experiment\数据结构实验\greedysnake\food.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575214376 c:\users\emor\desktop\experiment\数据结构实验\greedysnake\snake.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575215759 source:c:\users\emor\desktop\experiment\数据结构实验\greedysnake\game.cpp
+	"game.h"
+
+1575215980 source:c:\users\emor\desktop\experiment\数据结构实验\greedysnake\map.cpp
+	"map.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1575472439 source:c:\users\emor\desktop\experiment\c++作业\greedysnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<conio.h>
+	<map>
+	<time.h>
+
+1575451692 c:\users\emor\desktop\experiment\c++作业\greedysnake\map.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575447908 c:\users\emor\desktop\experiment\c++作业\greedysnake\game.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575472390 c:\users\emor\desktop\experiment\c++作业\greedysnake\food.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575469812 c:\users\emor\desktop\experiment\c++作业\greedysnake\snake.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<deque>
+	"stdlib.h"
+
+1575448038 source:c:\users\emor\desktop\experiment\c++作业\greedysnake\map.cpp
+	"map.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575470187 source:c:\users\emor\desktop\experiment\c++作业\greedysnake\snake.cpp
+	<deque>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	"iostream"
+
+1575472291 source:c:\users\emor\desktop\experiment\c++作业\greedysnake\food.cpp
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<iostream>
+
+1575469745 source:c:\users\emor\desktop\experiment\c++作业\greedysnake\game.cpp
+	"game.h"
+	"map.h"
+	<windows.h>
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+
+1575447971 source:c:\users\administrator\desktop\greedysnake\game.cpp
+	"game.h"
+	"map.h"
+	<windows.h>
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+
+1575447906 c:\users\administrator\desktop\greedysnake\game.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575451690 c:\users\administrator\desktop\greedysnake\map.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575453241 c:\users\administrator\desktop\greedysnake\food.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575455015 c:\users\administrator\desktop\greedysnake\snake.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<deque>
+	"stdlib.h"
+
+1575448036 source:c:\users\administrator\desktop\greedysnake\map.cpp
+	"map.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1575453836 source:c:\users\administrator\desktop\greedysnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<conio.h>
+	<map>
+	<time.h>
+
+1575453980 source:c:\users\administrator\desktop\greedysnake\snake.cpp
+	<deque>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	"iostream"
+
+1575454577 source:c:\users\administrator\desktop\greedysnake\food.cpp
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<iostream>
+
+1576222667 source:c:\users\emor\desktop\greedysnake\food.cpp
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+
+1576227710 c:\users\emor\desktop\greedysnake\map.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<queue>
+
+1576226488 c:\users\emor\desktop\greedysnake\game.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576219219 c:\users\emor\desktop\greedysnake\food.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576226562 c:\users\emor\desktop\greedysnake\snake.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<deque>
+	"stdlib.h"
+
+1576227336 source:c:\users\emor\desktop\greedysnake\game.cpp
+	"game.h"
+	"map.h"
+	<windows.h>
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1576222120 source:c:\users\emor\desktop\greedysnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<conio.h>
+	<map>
+	<time.h>
+
+1576225542 source:c:\users\emor\desktop\greedysnake\map.cpp
+	"map.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576226417 source:c:\users\emor\desktop\greedysnake\snake.cpp
+	<deque>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	"iostream"
+
+1576222122 source:c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<conio.h>
+	<map>
+	<time.h>
+
+1576377798 c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\map.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<queue>
+
+1576375526 c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\game.h
+	<windows.h>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576377809 c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\food.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576380626 c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\snake.h
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<deque>
+	"stdlib.h"
+
+1576539875 source:c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\food.cpp
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+
+1578447025 source:c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\game.cpp
+	"game.h"
+	"map.h"
+	<windows.h>
+	"food.h"
+	"snake.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+
+1576375775 source:c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\map.cpp
+	"map.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"game.h"
+	"food.h"
+	"snake.h"
+
+1576380509 source:c:\users\emor\desktop\experiment\c++作业\greedysnake2\greedysnake\snake.cpp
+	<deque>
+	"map.h"
+	"game.h"
+	"food.h"
+	"snake.h"
+	"iostream"
+
